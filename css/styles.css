@@ -1,0 +1,25 @@
+.blok__red {
+    border: 2px solid red;
+    height: 50px;
+    background-color: red;
+    padding: 10px;
+}
+
+.blok__green {
+    border: 2px solid green;
+    height: 50px;
+    background-color: green;
+    padding: 20px;
+}
+
+.blok__blue {
+    border: 2px solid blue;
+    height: 50px;
+    background-color: blue;
+    padding: 30px;
+}
+
+.blok {
+    display: inline-flex;
+    border: 5px solid tomato;
+}
